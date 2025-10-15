@@ -9,7 +9,7 @@ class LoginWindow(QWidget):
 
         # --- 1. Window Configuration ---
         self.setWindowTitle("Minecraft Backup System - Login")
-        self.setFixedSize(450, 600) # Fixed 16:9 ratio window
+        self.setFixedSize(450, 600) # Fixed ratio window
         self.setWindowIcon(QIcon("assets/temp_icon.png"))
         self.background_image = QPixmap("assets/background.png")
         
