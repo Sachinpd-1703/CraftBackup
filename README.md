@@ -1,7 +1,7 @@
 <p align="center">
   <h1 align="center">MineSave</h1>
   <p align="center">
-    A simple command-line tool to automatically backup your Minecraft worlds to Google Drive.
+    A simple GUI tool to automatically backup your Minecraft worlds to Google Drive.
   </p>
 </p>
 
